@@ -1,18 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Podcast de PokéMundo</title>
-        <link>https://tu-sitio.com/podcast/</link>
-        <description>Exploramos el mundo Pokémon con noticias, estrategias y curiosidades.</description>
-        <language>es</language>
-        
+        <title>PokéMundo - Podcast</title>
+        <link>https://braulio1234576.github.io/A5-A3-Proyecto/podcast/</link>
+        <description>Escucha nuestros episodios sobre el mundo Pokémon.</description>
         <item>
-            <title>Episodio 1: Introducción al Mundo Pokémon</title>
-            <description>En este episodio hablamos sobre la historia de Pokémon y su impacto en la cultura.</description>
-            <link>https://tu-sitio.com/podcast/audios/episodio1.mp3</link>
-            <guid>https://tu-sitio.com/podcast/audios/episodio1.mp3</guid>
-            <pubDate>Thu, 04 Apr 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://tu-sitio.com/podcast/audios/episodio1.mp3" type="audio/mpeg" length="12345678"/>
+            <title>Episodio 1: Introducción</title>
+            <link>https://braulio1234576.github.io/A5-A3-Proyecto/podcast/audios/episodio1.mp3</link>
+            <description>Bienvenida al podcast de PokéMundo.</description>
         </item>
     </channel>
 </rss>
