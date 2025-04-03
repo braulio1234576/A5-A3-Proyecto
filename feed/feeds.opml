@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Lista de Feeds de PokéMundo</title>
+    </head>
+    <body>
+        <outline text="PokéMundo Feeds">
+            <outline text="Blog de PokéMundo" type="rss" xmlUrl="https://tu-sitio.com/feed/rss.xml" htmlUrl="https://tu-sitio.com/blog/"/>
+            <outline text="Podcast de PokéMundo" type="rss" xmlUrl="https://tu-sitio.com/feed/podcast.xml" htmlUrl="https://tu-sitio.com/podcast/"/>
+        </outline>
+    </body>
+</opml>

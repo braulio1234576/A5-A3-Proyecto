@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Blog de PokéMundo</title>
+        <link>https://tu-sitio.com/blog/</link>
+        <description>Noticias, estrategias y curiosidades del universo Pokémon.</description>
+        <language>es</language>
+
+        <item>
+            <title>El Origen de los Pokémon Legendarios</title>
+            <description>Un análisis detallado sobre la historia y mitología detrás de los Pokémon legendarios.</description>
+            <link>https://tu-sitio.com/blog/posts/post1.html</link>
+            <guid>https://tu-sitio.com/blog/posts/post1.html</guid>
+            <pubDate>Wed, 03 Apr 2025 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Mejores Equipos Competitivos en Pokémon</title>
+            <description>Descubre las estrategias más efectivas para el competitivo de Pokémon.</description>
+            <link>https://tu-sitio.com/blog/posts/post2.html</link>
+            <guid>https://tu-sitio.com/blog/posts/post2.html</guid>
+            <pubDate>Mon, 01 Apr 2025 15:30:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
